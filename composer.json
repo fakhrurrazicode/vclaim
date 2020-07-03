@@ -1,0 +1,11 @@
+{
+    "name": "fakhrurraziandi/vclaim",
+    "description": "Library for BPJS VClaim Integeration",
+    "authors": [
+        {
+            "name": "Fakhrurrazi Andi",
+            "email": "fakhrurrazi.code@gmail.com"
+        }
+    ],
+    "require": {}
+}
